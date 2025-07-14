@@ -7,8 +7,11 @@
 
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol) -->
-[![LinkedIn: Aditya](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=linkedin&logoColor=white)]()
-[![Website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://portfolioaditya-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya-blue?style=flat-square&logo=linkedin&logoColor=white)](link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolioaditya-theta.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abcmaildemo)
+
+
 
 
 
