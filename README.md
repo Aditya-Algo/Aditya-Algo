@@ -4,9 +4,13 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![LinkedIn: Aditya](https://img.shields.io/badge/-adityadey-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityadey/)
+
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol) -->
+[![LinkedIn: Aditya](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=linkedin&logoColor=white)]()
 [![Website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://portfolioaditya-theta.vercel.app/)
+
+
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098) -->
 <!-- ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
