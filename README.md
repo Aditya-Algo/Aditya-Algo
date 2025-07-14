@@ -71,4 +71,12 @@ const anmol = {
 };
 ```
 
+<table>
+  <tr>
+    <td><img src="./assets/nodechat.png" width="300"/></td>
+    <td><img src="./assets/citytemp.png" width="300"/></td>
+  </tr>
+</table>
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
